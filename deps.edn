@@ -1,5 +1,5 @@
 {:paths ["src"]
  :deps {org.clojure/clojure      {:mvn/version "1.10.1"}
-        com.datomic/ion          {:mvn/version "0.9.48"}
+        com.datomic/ion          {:mvn/version "0.9.50"}
         com.datomic/dev-local    {:mvn/version "0.9.232"}}
  :mvn/repos {"datomic-cloud"   {:url "s3://datomic-releases-1fc2183a/maven/releases"}}}
