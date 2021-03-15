@@ -18,3 +18,4 @@ From println
 From println 2
 ```
 
+If you comment out the require on `datomic.dev-local`, then you start to see the expected output.
